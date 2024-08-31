@@ -30,7 +30,7 @@ python main.py
 
 - **main.py:** The main file containing the logic for the flashcard app, including the Tkinter GUI setup, card flipping mechanism, and progress tracking.
 - **data/hindi_words.csv:** The CSV file containing Hindi words and their corresponding English meanings.
-- **image folder:** Contains design elements for the flashcards.
+- **images folder:** Contains design elements for the flashcards.
 
 ## How It Works
 
